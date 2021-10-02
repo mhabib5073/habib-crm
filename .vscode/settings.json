@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Python37\\python.exe",
+    "files.associations": {
+        "python.pythonpath": "myenv/bin/path"
+    },
+    "files.autoSave": "onFocusChange"
+}
